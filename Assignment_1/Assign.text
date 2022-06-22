@@ -1,0 +1,67 @@
+
+Ques:- Explain the use of JavaScript ( or What you can do using a JavaScript)?
+
+Ans:- a) JavaScript is a cross-platform language.
+      b) To create dynamic and interactive web content like applications and browsers.
+      c) JavaScript is object-oriented programming language.
+      d) Transformed web browsers into application platforms.
+      e) Can run on all devices.
+      g) It does not need an environment setup.
+      f) Works with Document Object Model (DOM) for response to user interactions.
+
+---------------------------------------------------------------------------------
+
+Ques:- What is the difference between client-side and server-side?
+
+Ans:- 
+        ---- Client-side ---
+    a) It runs on the user’s computer.
+    b) HTML, CSS, and javascript are used.
+    c) It usually depends on the browser and its version.
+    d) It does not provide security for data.
+
+        ---- Server-side ---
+    a) It runs on the webserver.
+    b) PHP, Python, Java, Ruby, JavaScript are used.
+    c) Depend on the client. 
+    d) It provides more security for data.
+
+--------------------------------------------------------------------------------------
+
+Ques:- what is nodejs?
+
+Ans:- a) Node.js is a server-side platform built on Google Chrome's JavaScript Engine (V8 Engine).
+      b) Single Threaded but Highly Scalable
+      c) Asynchronous is nature.
+
+---------------------------------------------------------------------------------------
+
+Ques:- Explain Scope in JavaScript
+
+Ans:- Scope refers to the availability of variables and functions in certain parts of the code.
+
+        In JavaScript, a variable and functions has two types of scope:
+
+        1) Global Scope
+        2) Local Scope
+
+        * A variable declared at the top of a program or outside of a function is considered a global scope variable.
+        * A variable can also have a local scope, i.e it can only be accessed within a function.
+
+-------------------------------------------------------------------------------------------------------
+
+Ques:- JavaScript is asynchronous or synchronous.
+
+Ans:- JavaScript is a non-blocking, asynchronous, concurrent programming language
+
+---------------------------------------------------------------------------------------------------------
+
+Ques:- JavaScript is Single-threaded or Multi-threaded.
+
+Ans:- JavaScript is a single-threaded.
+
+------------------------------------------------------------------------------------------------------
+
+Ques:- Explain DOM in your own word.
+Ans:- 
+    
