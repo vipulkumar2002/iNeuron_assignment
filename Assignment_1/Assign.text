@@ -63,5 +63,10 @@ Ans:- JavaScript is a single-threaded.
 ------------------------------------------------------------------------------------------------------
 
 Ques:- Explain DOM in your own word.
-Ans:- 
+
+Ans:- a) The document object is the main “entry point” to the page. 
+      b) The Document Object Model (DOM) is a programming interface for web documents.
+      c) It is an object that includes how the HTML/XHTML/XML is formatted
+
+
     
