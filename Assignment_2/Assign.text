@@ -1,0 +1,71 @@
+Ques:- What is lexical structure in javascript?
+Ans:- Lexical structure is specifies a set of some basic rules about how code should be written in it. Rules like what variable names look like, the delimiter characters for comments, 
+      and how one program statement is separated from the next.
+      Examples:-
+        a) Unicode
+        b) Semicolons
+        c) White space
+        d) Case sensitive
+        e) Comments
+        f) Literals and Identifiers
+        g) Reserved words
+
+
+---------------------------------------------------------------------------------
+
+Ques:- what is unicode in javascript?
+Ans:- The Unicode Standard provides a unique number for every character, 
+      no matter the platform, device, application, or language. 
+      UTF-8 is a popular Unicode encoding which has 8-bit code units.
+
+
+------------------------------------------------------------------------------------
+
+Ques:- Explain all the keywords present in the JavaScript with examples.
+Ans:- The list of JavaScript keywords outlined below is:
+
+goto, In, instanceof, Static, finally, arguments, public, Do, else, Const, Function, class*, return, let*, 
+Catch, Eval, For, if, This, try, Break, debugger, Yield, extends*, enum*, Continue, export*, null, switch,
+private, New, throw, while, Case, await*, Delete, super*, default, Void, Var, protected, Package, Interface, 
+False, typeof, implements, With, import*, True
+
+The keywords which are marked by ‘*’ are new in ECMAScript 5 and 6 (which are the version of javascript). 
+The lists of reserved words which have been removed from the ECMAScript 5 and 6 standard are given below –
+
+goto
+double
+transient
+volatile
+int
+synchronized
+throws
+native
+float
+short
+byte
+Boolean
+long
+abstract
+final
+char.
+
+----------------------------------------------------------------------------------------------------
+
+Ques:- What are shorthand operators, explain with a suitable example?
+Ans:- A shorthand operator is a shorter way to express something that is already available in the language.
+      Shorthand operations do not add any feature
+
+      Shorthand operators +=, -=, *=, /= and *=
+
+
+-------------------------------------------------------------------------------------------------------
+
+Ques:- What is “use Strict” in JavaScript?
+Ans:- It is not a statement, but a literal expression, ignored by previous versions of JavaScript.
+      The "use strict" directive was new in ECMAScript version 5.
+      The purpose of "use strict" is to indicate that the code should be executed in "strict mode".
+
+      Example:- 
+            "use strict";
+            x = 3.14;       // This will cause an error because x is not declared
+
