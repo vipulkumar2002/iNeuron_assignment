@@ -1,0 +1,66 @@
+
+
+Ques 1. List all the Escape Sequences characters in javascript.
+Ans.    Escape character.
+
+        Code	Result	    Description
+        \'	        '	    Single quote
+        \"	        "	    Double quote
+        \\	        \	    Backslash
+
+        \b	                Backspace
+        \f	                Form Feed
+        \n	                New Line
+        \r	                Carriage Return
+        \t	                Horizontal Tabulator
+        \v	                Vertical Tabulator
+
+
+Ques 2. Explain with example length and substring methods in javascript.
+Ans.    This method basically gets a part of the original string and returns it as a new string. 
+        The substring method expects two parameters.
+
+        string.substring(startIndex, endIndex);
+
+        startIndex: represents the starting point of the substring
+        endIndex: represents the ending point of the substring (optional)
+
+
+
+Ques 3. What are padStart and padEnd in javascript, explain with an example.
+Ans     The padStart() method in JavaScript is used to pad a string with another string until it reaches the given length. 
+        The padding is applied from the left end of the string.
+
+
+        string.padStart(targetLength, padString)
+
+        Parameters: This method accepts two parameters as mentioned above and described below:
+
+        ->  targetLength: It is the length of the final string once the original string has been padded. 
+            If the value is less than the original string length, then the original string is returned.    
+        -> padString: It is the string that is to be padded with the original string. 
+            If this value is too long to be within the targetLength, it truncated from the end. 
+            The default used string is the space character (” “).
+
+    Return Value: It returns the final string that is padded with the given string to the given length.
+
+
+
+Ques 4. Define Global Object in javascript along with the global scope.
+Ans     A global object is an object that always exists in the global scope. 
+        In JavaScript, there's always a global object defined. 
+        In a web browser, when scripts create global variables defined with the var keyword, they're created as members of the global object. 
+        (In Node. js this is not the case.)
+
+        The global scope is the scope that contains, and is visible in, all other scopes. 
+        In client-side JavaScript,the global scope is generally the web page inside which all the code is being executed.
+
+
+Ques 5. List all the names of Javascript engines present currently.
+Ans     List of JavaScript Engines:
+
+    Browser     	Name of Javascript Engine
+    Google          Chrome	V8
+    Edge            (Internet Explorer)	Chakra
+    Mozilla         Firefox	Spider Monkey
+    Safari 	        Javascript Core Webkit
